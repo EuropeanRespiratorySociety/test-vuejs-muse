@@ -1,4 +1,5 @@
 # Vue + Muse
+Just a test
 
 ## Getting started
 
@@ -7,12 +8,6 @@
 ``` bash
 # install dependencies
 npm install
-
-# start the server
-node app # nodemon app 
-
-# come back in the vuejs folder
-cd ..
 
 # serve with hot reload at localhost:8080
 npm run dev
