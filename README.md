@@ -1,4 +1,6 @@
 # Vue + Muse
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/EuropeanRespiratorySociety/test-vuejs-muse.svg)](https://greenkeeper.io/)
 Just a test
 
 ## Getting started
